@@ -24,7 +24,7 @@
    <distributionManagement>
 	  <repository>
 	     <id>releases</id>
-		 <url>http://l92.168.33.10:8080/nexus/content/repositories/releases/</url>
+		 <url>http://192.168.33.10:8080/nexus/content/repositories/releases/</url>
 	  </repository>
 </distributionManagement>  
 
