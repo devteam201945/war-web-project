@@ -20,6 +20,16 @@
   	</dependency>
 
   </dependencies>
+
+   <distributionManagement>
+	  <repository>
+	     <id>Releases</id>
+		 <url>http://l92.168.33.10:8080/nexus/content/repositories/release </url>
+	  </repository>
+</distributionManagement>  
+
+
+  
   <build>
     <plugins>
       <plugin>
